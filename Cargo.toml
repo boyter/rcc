@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Ben Boyter <ben@boyter.org>"]
 
 [dependencies]
+walkdir = "2"
